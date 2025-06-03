@@ -1,4 +1,4 @@
-<h1>Exchange Admin Center – Get To Manage Malbox (Outlook Settings and Policies)</h1>
+<h1>Exchange Admin Center – Get To Manage Mailbox (Outlook Settings and Policies)</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
