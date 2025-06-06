@@ -1,4 +1,4 @@
-<h1>Exchange Admin Center – Mailboxes Tab (Manage Individual or Group Mailboxes)</h1>
+<h1>Exchange Admin Center – Mailboxes Tab (Manage Individual and Group Mailboxes)</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
