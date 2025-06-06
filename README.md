@@ -1,11 +1,11 @@
-<h1>Exchange Admin Center – Exchange’s Mailbox Tab (Manage Individual or Group Mailboxes)</h1>
+<h1>Exchange Admin Center – Mailboxes Tab (Manage Individual or Group Mailboxes)</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to get to Microsoft 365 Exchange’s Mailbox tab (Outlook Settings and Policies) in the Exchange Admin Center. The "Mailboxes" tab in the Exchange admin center (EAC) in Microsoft 365 is used to manage user, shared, and room mailboxes. It allows administrators to create, edit, and delete these types of mailboxes, as well as manage their permissions, storage limits, and other settings.
+This project goes over how to get to Microsoft 365 Exchange Admin Center’s Mailboxes tab (Manage Individual or Group Mailboxes). The "Mailboxes" tab in the Exchange admin center (EAC) in Microsoft 365 is used to manage user, shared, and room mailboxes. It allows administrators to create, edit, and delete these types of mailboxes, as well as manage their permissions, storage limits, and other settings.
 </b>
 
 
